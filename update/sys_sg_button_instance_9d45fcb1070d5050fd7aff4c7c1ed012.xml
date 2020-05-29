@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Store)">9945fcb1070d5050fd7aff4c7c1ed00d</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Store)</name>
+        <order/>
+        <parent>1545b0b1070d5050fd7aff4c7c1ed0df</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 14:34:31</sys_created_on>
+        <sys_id>9d45fcb1070d5050fd7aff4c7c1ed012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Store)</sys_name>
+        <sys_package display_value="Shopping List" source="x_299632_shoppin">77c174fd07c95050fd7aff4c7c1ed02f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">77c174fd07c95050fd7aff4c7c1ed02f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_9d45fcb1070d5050fd7aff4c7c1ed012</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 14:34:31</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d45fcb1070d5050fd7aff4c7c1ed012"/>
+</record_update>
